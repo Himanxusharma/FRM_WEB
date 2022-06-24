@@ -1,0 +1,18 @@
+:root{
+    --yellow:#f9ca24;
+    --blue:#010326;
+    --black:#000000;
+    --orange:#de8531;
+    --pink:#fcb1ab;
+    --grey:#191919;
+}
+
+*{
+    font-family: 'Nunito', sans-serif;
+    margin:0; padding:0;
+    box-sizing: border-box;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: all .2s linear;
+    background:var(--yellow);
+}
