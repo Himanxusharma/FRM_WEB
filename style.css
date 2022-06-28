@@ -58,3 +58,27 @@ html::-webkit-scrollbar-thumb{
 .Mediums{
   font-size:40px;
 }
+
+.btn{
+  width: 200px;
+  padding: 10px ;
+  margin: 20px;
+  font-weight: bold;
+ 
+  
+}
+
+.btn:hover{
+   Background:var(--orange);
+   color:var(--grey);
+}
+
+.footer
+{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  
+}
